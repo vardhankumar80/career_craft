@@ -23,7 +23,42 @@ It features a user‑friendly front‑end, a robust back‑end API, and tools to
 ### Prerequisites  
 - Node.js (v14 or higher)  
 - npm or yarn  
-- MongoDB / PostgreSQL instance  
+- MongoDB / PostgreSQL instance
+
+### Usage
+
+- Register a new account or log in with existing credentials.
+- Create and update your profile, including skills and interests.
+- Explore suggested career paths and recommended skill improvements.
+- Track your career development progress through the dashboard.
+
+### Project Structure 
+career_craft/
+├── backend/          # Backend API and server code
+├── frontend/         # Frontend React application
+├── README.md         # Project documentation
+├── .env.example      # Environment variables template
+└── ...
+
+### Future Work
+
+- Integrate machine learning for personalized career recommendations
+- Add social and networking features for mentorship
+- Incorporate analytics for user progress insights
+- Enhance mobile responsiveness and accessibility
+
+### Contribution
+
+Contributions are welcome!
+Fork the repository
+Create a new branch: git checkout -b feature/YourFeature
+Make your changes and commit: git commit -m "Add feature"
+Push the branch: git push origin feature/YourFeature
+Open a pull request for review
+
+### CREATED BY
+Vardhan Kumar
+Email: kumarvardhan777@gmail.com
 
 ### Demo 
 https://career-craft-1-qk1h.onrender.com  
