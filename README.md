@@ -9,7 +9,10 @@ It features a user‑friendly front‑end, a robust back‑end API, and tools to
 - Explore career paths, job roles, and skill‑gaps  
 - Interactive dashboard with progress‑tracking  
 - Responsive UI for desktop & mobile  
-- Extensible architecture for adding new modules  
+- Extensible architecture for adding new modules
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/vardhankumar80/career_craft)
+
 
 ## Tech Stack  
 
