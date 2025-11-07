@@ -18,6 +18,20 @@ It features a user‑friendly front‑end, a robust back‑end API, and tools to
 **Database**: MongoDB / PostgreSQL  
 **Other Tools**: JWT authentication, bcrypt for hashing, etc.  
 
+### What I Learned
+- Full-stack web development with React, Node.js, and MongoDB
+- Designing RESTful APIs and secure authentication with JWT
+- State management in React and component-based architecture
+- Deployment workflow for frontend (Netlify) and backend (Render/Heroku)
+- Problem-solving, project planning, and iterative development
+
+### Code Highlights
+- Modular, reusable components in frontend
+- RESTful API architecture in backend
+- Environment variables for secure configuration
+- Prepared for testing and CI/CD integration
+
+
 ## Getting Started  
 
 ### Prerequisites  
