@@ -21,4 +21,4 @@ This project demonstrates a clean design, motion effects, and dropdown navigatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/your-repo-name.git
+   git clone https://github.com/vardhankumar80/career_craft.git
