@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/vardhankumar80/career_craft)
+![GitHub contributors](https://img.shields.io/github/contributors/vardhankumar80/career_craft)
+![GitHub stars](https://img.shields.io/github/stars/vardhankumar80/career_craft?style=social)
+
 # Career Craft
 
 **Career Craft** is a full‑stack web application that helps individuals explore, plan and navigate their career paths.  
@@ -11,7 +15,6 @@ It features a user‑friendly front‑end, a robust back‑end API, and tools to
 - Responsive UI for desktop & mobile  
 - Extensible architecture for adding new modules
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/vardhankumar80/career_craft)
 
 
 ## Tech Stack  
