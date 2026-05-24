@@ -1,18 +1,14 @@
 {
-<<<<<<< HEAD
-  "name": "ai-career-coach",
+  "name": "career_craft",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "prisma generate"
+    "lint": "next lint"
   },
   "dependencies": {
-    "20": "^3.1.9",
-    "22": "^0.0.0",
     "@clerk/nextjs": "^6.9.10",
     "@clerk/themes": "^2.2.5",
     "@google/generative-ai": "^0.24.1",
@@ -35,7 +31,7 @@
     "html2pdf.js": "^0.10.2",
     "inngest": "^3.54.0",
     "lucide-react": "^0.471.1",
-    "next": "^16.0.5",
+    "next": "^15.2.3",
     "next-themes": "^0.4.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -43,7 +39,6 @@
     "react-markdown": "^9.1.0",
     "react-spinners": "^0.15.0",
     "recharts": "^2.15.0",
-    "run": "^1.5.0",
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
@@ -56,15 +51,5 @@
     "postcss": "^8",
     "prisma": "^6.2.1",
     "tailwindcss": "^3.4.1"
-=======
-  "dependencies": {
-    "@heroicons/react": "^2.2.0",
-    "axios": "^1.13.2",
-    "framer-motion": "^12.23.24",
-    "react-router-dom": "^7.9.5"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
->>>>>>> 4c914a7ed08feac3604060e3b24f04047172d1cf
   }
 }
